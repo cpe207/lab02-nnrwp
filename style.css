@@ -1,0 +1,24 @@
+h2 {
+  text-align: center;
+  color: rgb(4, 24, 104);
+  font-style: italic;
+}
+
+h3 {
+  text-align: center;
+  color: rgb(4, 24, 104);
+  font-style: italic;
+}
+
+.skill-header {
+  text-align: left;
+}
+
+.skill-container {
+  border: solid rgb(148, 46, 161);
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  margin-bottom: 8px;
+}
